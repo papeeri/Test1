@@ -1,3 +1,5 @@
 Matte har också Git!
 
 Haha!
+
+Branch 2
