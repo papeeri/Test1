@@ -5,3 +5,5 @@ Haha!
 Branch 2
 
 Detta är tamejfan bara ändrat i branch1 kar!
+
+Detta är i master
