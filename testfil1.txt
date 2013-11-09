@@ -6,4 +6,5 @@ Branch 2
 
 Detta är tamejfan bara ändrat i branch1 kar!
 
-Detta är i master
+Detta är i master haha
+Detta finns i branch1
